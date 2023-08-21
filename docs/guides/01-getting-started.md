@@ -1,58 +1,22 @@
 ---
 contributors: false
 externalLinkIcon: true
+date: 2023-08-21
 ---
 # Getting Started
 
-## Links
+## **Install Course Critique**
 
-- [Youtube](https://youtu.be/eoIHxiyOZAk)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
 
-- [Spotify](https://open.spotify.com/track/4JpNZukH0FMF5hmga7DQba?si=ab648708a17a4eea)
+## **Explore the campaign types**
 
-## Lyrics
+Course Critique has 2 main types of Campaigns
 
-Tuko tayari, Kuona miujiza ***3**<br>
-(We are ready to witness miracles)
+### **End of Lesson Feedback Pop-Up**
 
-Mimi niko tayari, Kuona miujiza<br>
-(I am ready to witness miracles)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
 
-Yako Mungu ***2**<br>
-(Your miracles, God)
+### **End of Course Feedback Pop-Up**
 
-Miujiza Yako Mungu ***2**<br>
-(Your miracles, God)
-
---- Instrumental Interlude
-
-Mahali hapa, Pamelowa upako ***4**<br>
-(This place is flooded with anointing)
-
-Wako Mungu ***4**<br>
-(Your anointing, God)
-
-[Repeat]
-
---- Instrumental Interlude
-
-Now we worship You<br>
-You alone are King of Kings ***3**
-
---- Instrumental Interlude
-
-Now we worship You<br>
-You alone are King of Kings ***4**
-
-You rule with power<br>
-With an iron sceptre<br>
-You're eyes are fire<br>
-And full of love<br>
-For Me ***3**
-
-Now we worship You<br>
-You alone are King
-
-## Related performances
-
-- Tuko Tayari [REMIX] Mwanga Band feat. Alice Kimanzi - [Youtube](https://youtu.be/-aHXCfpwuRg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
