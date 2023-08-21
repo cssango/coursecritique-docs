@@ -9,16 +9,16 @@ backend:
 
 # https://decapcms.org/docs/configuration-options/
 publish_mode: editorial_workflow
-display_url: https://vuedn.netlify.app/
+display_url: https://docs.coursecritique.app/
 media_folder: "docs/.vuepress/public/media" # Media files will be stored in the repo under docs/.vuepress/public/media
 public_folder: "/media" # The src attribute for uploaded media will begin with /media
 editor:
   preview: false # disabled markdown preview in CMS
 collections:
-  - name: "songs" # Used in routes, e.g., /admin/collections/songs
-    label: "Songs" # Used in the UI
-    label_singular: Song
-    folder: "docs/songs" # The path to the folder where the documents are stored
+  - name: "guides" # Used in routes, e.g., /admin/collections/songs
+    label: "Guides" # Used in the UI
+    label_singular: Guide
+    folder: "docs/guides" # The path to the folder where the documents are stored
     nested: # adding a nested object will show the collection folder structure
       depth: 2 # max depth to show in the collection tree
     create: true # Allow users to create new documents in this collection
@@ -35,4 +35,4 @@ collections:
         format: 'YYYY-MM-DD'
         time_format: false
         required: true
-      - {label: "Body", name: "body", widget: "markdown", default: "# Song title (Composer/ Artist)"}
+      - {label: "Body", name: "body", widget: "markdown", default: "# Article title"}
