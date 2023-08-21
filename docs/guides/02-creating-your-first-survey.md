@@ -1,10 +1,8 @@
 ---
 lastUpdated: true
 contributors: true
-externalLinkIcon: true
-date: 2023-04-17
 ---
-# Baba Yetu (Christopher Tin)
+# Creating Your First Survey
 
 [About](https://en.wikipedia.org/wiki/Baba_Yetu)
 

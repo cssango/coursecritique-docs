@@ -1,9 +1,8 @@
 ---
 contributors: false
 externalLinkIcon: true
-date: 2023-04-10
 ---
-# Tuko tayari (Mwanga Band)
+# Getting Started
 
 ## Links
 
