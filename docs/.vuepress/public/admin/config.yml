@@ -23,7 +23,7 @@ collections:
       depth: 2 # max depth to show in the collection tree
     create: true # Allow users to create new documents in this collection
     slug: "{{date}}/index" # Filename template # Outputs sun-apr-02-2023-01-13-17-gmt-0300-east-africa-time (not ideal but is dynamic to date - only at creation not at editing)
-    summary: "{{dirname}} . Last updated at {{commit_date}}"
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     preview_path: guides/{{date}}
     fields: # The fields for each document, usually in front matter
       - {label: "lastUpdated", name: "lastUpdated", widget: "hidden", default: true}
