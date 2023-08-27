@@ -1,6 +1,7 @@
 ---
 lastUpdated: true
 contributors: true
+title: "Understanding Functionality by Feature"
 ---
 # Understanding Functionality by Feature
 
