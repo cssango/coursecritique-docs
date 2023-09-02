@@ -1,5 +1,5 @@
 ---
-title: Campaign status
+title: Campaigns status
 lastUpdated: true
 contributors: true
 externalLinkIcon: false
