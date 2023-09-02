@@ -1,23 +1,42 @@
 ---
+title: Getting Started
 contributors: false
 externalLinkIcon: true
 date: 2023-08-21
-title: "Getting Started"
 ---
 # Getting Started
 
 ## **Install Course Critique**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
+Y﻿ou can select one of the two option:
 
-## **Explore the campaign types**
+1. T﻿hrough the Thinkific App marketplace
+2. T﻿hrough https://app.coursecritique.app/
 
-Course Critique has 2 main types of Campaigns
+## **Select the Campaign type**
 
-### **End of Lesson Feedback Pop-Up**
+Course Critique has 2 main types of Campaigns:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
+* End of Lesson campaign
 
-### **End of Course Feedback Pop-Up**
+  * Collect feedback after each lesson.
+  * Default questions:
+  * * Clarity and helpfulness ranking (1-5).
+    * Open text for additional feedback.
+* E﻿nd of Course campaign
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia rhoncus purus, vulputate auctor enim dapibus vitae. Maecenas ac velit at mauris venenatis gravida vitae sed lectus. Nunc blandit dolor ex, sed maximus metus pulvinar eget. Duis ut lectus cursus, hendrerit ipsum nec, porta magna. Integer in efficitur ipsum. Donec ut ullamcorper massa. Nulla iaculis mi varius nisi rutrum, id dignissim enim pharetra. Praesent porta faucibus rutrum. Integer hendrerit placerat nisl, dignissim rutrum urna euismod eu. Maecenas efficitur scelerisque lectus feugiat finibus. Cras egestas lacinia mauris. Nullam lobortis, tortor vitae sollicitudin maximus, libero sapien accumsan nunc, non vulputate purus augue vel leo. Donec id neque nisl.
+  * Gather overall course feedback.
+  * NPS question and open text.
+
+## **Choose videos to trigger the survey**
+
+* End of Lesson Campaign:
+
+  * Select multiple videos from your list.
+* End of Course Campaign:
+
+  * Choose one video as the trigger.
+
+
+
+**You are ready to start your first campaign!**
