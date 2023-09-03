@@ -1,9 +1,9 @@
 ---
 lastUpdated: true
 contributors: true
-title: "Creating Your First Survey"
+title: "Creating Your First Campaign"
 ---
-# Creating Your First Survey
+# Creating Your First Campaign
 
 [About](https://en.wikipedia.org/wiki/Baba_Yetu)
 
